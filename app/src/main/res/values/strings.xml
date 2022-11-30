@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SimpleTest2</string>
+
+    <string name="title_1">Name 1</string>
+    <string name="title_2">Name 2</string>
+    <string name="title_3">Name 3</string>
+    <string name="title_4">Name 4</string>
+    <string name="title_5">Name 5</string>
+    <string name="title_6">Name 6</string>
+    <string name="title_7">Name 7</string>
+    <string name="title_8">Name 8</string>
+    <string name="title_9">Name 9</string>
+    <string name="title_10">Name 10</string>
+
+    <string name="content_1">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_2">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_3">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_4">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_5">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_6">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_7">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_8">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_9">The PNG format is widely supported and works best with presentations and web design. </string>
+    <string name="content_10">The PNG format is widely supported and works best with presentations and web design. </string>
+
+    <string name="imageURL_1">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_2">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_3">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_4">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_5">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_6">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_7">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_8">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_9">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+    <string name="imageURL_10">https://cdn4.iconfinder.com/data/icons/bettericons/354/github-512.png</string>
+
+</resources>
